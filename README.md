@@ -12,7 +12,7 @@ The design is inspired by a product-focused online store and includes sections f
 
 You can view the live project here:
 
-* [https://muhiuddinshanto.github.io/protfolio-One/](https://muhiuddinshanto.github.io/protfolio-One/)
+* [https://muhiuddinshanto.github.io/good-panda-woocommerce/](https://muhiuddinshanto.github.io/good-panda-woocommerce/)
 
 ---
 
@@ -264,10 +264,3 @@ Possible future improvements:
 * Add dark mode
 * Connect newsletter form to a real email service
 
----
-
-## Live Demo
-
-You can view the live project here:
-
-https://muhiuddinshanto.github.io/protfolio-One/
